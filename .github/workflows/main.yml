@@ -17,4 +17,4 @@ jobs:
         server: ftp.pixelance.net
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /garg.pixelance.net
+        server-dir: /garg.pixelance.net/
