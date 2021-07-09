@@ -2,5 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/pixelanc/public_html/garg.pixelance.net
-    - /bin/cp * $DEPLOYPATH
+    - /bin/rsync * $DEPLOYPATH
    
