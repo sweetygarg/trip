@@ -1,2 +1,0 @@
-# trip
-Trip Laravel project
